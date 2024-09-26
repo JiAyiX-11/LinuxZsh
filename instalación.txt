@@ -1,0 +1,15 @@
+sudo apt install zsh
+
+sudo apt install git
+
+sudo apt install exa
+
+sudo apt install curl o wget
+
+    -curl
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+    -wget
+sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+
+
