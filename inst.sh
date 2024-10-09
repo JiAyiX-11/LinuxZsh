@@ -11,10 +11,10 @@ echo -e '\t' 2. Instalar pluggin
 echo -e '\t' 3. Salir
 read -p "Escribe el numero: " num
 case $num in
-    1)  #PAQUETES
+    1)  #zsh
         ./zsh.sh;;
     
-    2) #TEMA
+    2) #pluggin
         ./pluggin.sh;;
 
     3) #SALIR
