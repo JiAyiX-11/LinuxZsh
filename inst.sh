@@ -5,10 +5,10 @@ do
 clear
 
 echo Inicial:
-echo -e '\t' 1. Instalar Paquetes
-echo -e '\t' 2. Instalar Oh-my-Zsh
-echo -e '\t' 3. Instalar pluggin
-echo -e '\t' 4. Salir
+echo  '\t' 1. Instalar Paquetes
+echo  '\t' 2. Instalar Oh-my-Zsh
+echo  '\t' 3. Instalar pluggin
+echo  '\t' 4. Salir
 read -p "Escribe el numero: " num
 case $num in
     1)  #PAQUETES
